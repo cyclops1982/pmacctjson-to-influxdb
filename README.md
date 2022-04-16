@@ -11,3 +11,9 @@ Example JSON:
 
 ```
 
+
+## Python environment
+
+We did a `python3.9 -v venv env` in the root of this repository and added `env` to `.gitignore`.
+Requirements are in `requirements.txt`
+
